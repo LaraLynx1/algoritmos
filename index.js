@@ -108,3 +108,4 @@ const sumaredades = (arrayDePersonas) => {
 
 const resultado = sumaredades(personas);
 console.log('la suma de las edades es ' + resultado);
+const isaeslamejor = 100;
