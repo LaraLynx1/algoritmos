@@ -92,7 +92,7 @@
 	},
 	"scripts": {
 		"start": "serve",
-		"build": "webpack--watch--mode=production"
+		"build": "webpack --watch --mode=production"
 	},
 	"keywords": [],
 	"author": "",
